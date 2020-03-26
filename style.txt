@@ -1,0 +1,3 @@
+Font : Open sans, Sans serif
+
+Color : #FFEB3B, #FFBA00
