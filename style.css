@@ -158,7 +158,7 @@ section{
     color: rgb(80, 80, 80);
     width: 20%;
     padding: 20px;
-    font-size: .7em;
+  
     
 
 
@@ -172,6 +172,7 @@ th,td{
     border-left: 0;
     border-right: 0;
     text-align: left;
+    font-size: .5em;
     
 }
 .table td{
@@ -181,7 +182,7 @@ th,td{
 .bawah{
     background-color: #FFEB3B;
     width: 100%;
-    height: 450px;
+    height: 800px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -189,7 +190,7 @@ th,td{
 .card{
     width: 100%;
     
-    height: 50vh;
+    height: 70vh;
     box-shadow: 0 15px 15px rgb(34, 34, 34,0.5);
     padding:  20px;
     background: rgb(233, 232, 232);
@@ -216,6 +217,7 @@ th,td{
 .card .card-isi p{
     margin-top: 25px;
     color: black;
+    margin-bottom: 20px;
 }
 .button
 {
@@ -626,7 +628,7 @@ th,td{
     }
 
 
-    }
+    
     .banner-footer{
         background: url(img/community.jpg);
         background-size: cover;
@@ -676,7 +678,6 @@ th,td{
         color: rgb(80, 80, 80);
         width: 20%;
         padding: 20px;
-        font-size: 1em;
         
     
     
@@ -690,10 +691,13 @@ th,td{
         border-left: 0;
         border-right: 0;
         text-align: left;
+        font-size:1em;
         
     }
     .table td{
         font-weight: 300;
     }
+
+}
 
 
